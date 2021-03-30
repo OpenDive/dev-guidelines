@@ -1,15 +1,23 @@
 # Development Guidelines
 Below are some guidelines and best practices
 
-# Project Structure
+# Unity
+## Project Structure
 
-# Naming Conventions
+## Naming Conventions
 
-## Unity Projects
+### Unity Projects
 
-## CSharp Files
+### CSharp Files
 
-## CSharp Code
+### CSharp Code
+
+# Web3
+
+## Ethereum
+
+## Solana
+
+## Polkadot Substrate
 
 # Version Control
-
