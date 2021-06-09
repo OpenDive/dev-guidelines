@@ -129,18 +129,6 @@ Know your tools, from debuggers, to profilers, to IDEs.
 
 ### Tools
 
-
-# Unity
-## Project Structure
-
-## Naming Conventions
-
-### Unity Projects
-
-### CSharp Files
-
-### CSharp Code
-
 # Web3
 
 ## Ethereum
