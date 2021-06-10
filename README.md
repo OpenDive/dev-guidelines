@@ -137,9 +137,3 @@ Know your tools, from debuggers, to profilers, to IDEs.
 ## Hardware
 
 ### Tools
-
-## Solana
-
-## Polkadot Substrate
-
-# Version Control
