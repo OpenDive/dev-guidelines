@@ -1,6 +1,15 @@
 # Development Guidelines
-Below are some guidelines and best practices
+Below are some development guidelines and best practices when working on OpenDive software and hardware.
+This doc covers general guidelines on documentation, version control, and tools.   
 
+Blockchain specific readme's can be found here:
+
+## Blockchain-specific Guidelines
+
+- [Solana](https://github.com/OpenDive/dev-guidelines/blob/main/SOLANA.md)
+- [Polkadot](https://github.com/OpenDive/dev-guidelines/blob/main/POLKADOT.md)
+- [Avalanche](https://github.com/OpenDive/dev-guidelines/blob/main/AVALANCHE.md)
+- [EVM Web3](https://github.com/OpenDive/dev-guidelines/blob/main/STANDARD_EVM.md)
 ## Table of Contents
 
 - [Software](#project-structure)
@@ -128,10 +137,6 @@ Know your tools, from debuggers, to profilers, to IDEs.
 ## Hardware
 
 ### Tools
-
-# Web3
-
-## Ethereum
 
 ## Solana
 
