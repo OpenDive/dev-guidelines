@@ -10,8 +10,9 @@ Blockchain specific readme's can be found here:
 - [Polkadot](https://github.com/OpenDive/dev-guidelines/blob/main/POLKADOT.md)
 - [Avalanche](https://github.com/OpenDive/dev-guidelines/blob/main/AVALANCHE.md)
 - [EVM Web3](https://github.com/OpenDive/dev-guidelines/blob/main/STANDARD_EVM.md)
+
 ## Table of Contents
-- [Project Naming Conventions](#project-naming-conventions]
+- [Project Naming Conventions](#project-naming-conventions)
 - [Software](#project-structure)
 	- [Styleguides](#styleguides)
 	- [Documentation](#documentation)
@@ -28,15 +29,13 @@ Blockchain specific readme's can be found here:
 Different frameworks and languages have different naming conventions
 
 **NodeJS**   
-Lowercase snakecase.   
-e.g. OpenEra Node project:   
+Lowercase snakecase. E.g. OpenEra Node project:   
 ```
 openera-frontend/
 ```
 
 **Unity**   
-Capital camelcase / pascalCase.   
-e.g. OpenEra Unity plugin
+Capital camelcase / pascalCase. E.g. OpenEra Unity plugin
 ```
 OpenEraWalletPlugin
 ```
