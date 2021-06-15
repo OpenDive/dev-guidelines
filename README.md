@@ -11,7 +11,7 @@ Blockchain specific readme's can be found here:
 - [Avalanche](https://github.com/OpenDive/dev-guidelines/blob/main/AVALANCHE.md)
 - [EVM Web3](https://github.com/OpenDive/dev-guidelines/blob/main/STANDARD_EVM.md)
 ## Table of Contents
-
+- [Project Naming Conventions](#project-naming-conventions]
 - [Software](#project-structure)
 	- [Styleguides](#styleguides)
 	- [Documentation](#documentation)
@@ -24,7 +24,22 @@ Blockchain specific readme's can be found here:
 	- [Middleware and Frameworks](#middleware-and-frameworks)
 - [Hardware](#hardware)
 
+## Project Naming Conventions
+Different frameworks and languages have different naming conventions
 
+**NodeJS**   
+Lowercase snakecase.   
+e.g. OpenEra Node project:   
+```
+openera-frontend/
+```
+
+**Unity**   
+Capital camelcase / pascalCase.   
+e.g. OpenEra Unity plugin
+```
+OpenEraWalletPlugin
+```
 
 ## Software
 
