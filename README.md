@@ -21,7 +21,6 @@ Blockchain specific readme's can be found here:
 	- [GitHub](#github)
 	- [Software Releases](#software-releases)
 	- [Tools](#tools)
-	- [IDEs](#ides)
 	- [Middleware and Frameworks](#middleware-and-frameworks)
 - [Hardware](#hardware)
 
@@ -155,17 +154,6 @@ Self describing, terse code should be the norm. But, often times the complexity 
 ### Dependency Management
 
 - [Gradle](https://gradle.org)
-
-
-### Tools
-
-Know your tools, from debuggers, to profilers, to IDEs.
-
-### IDEs
-
-#### IntelliJ
-
-#### Eclipse
 
 ### Middleware and Frameworks
 
