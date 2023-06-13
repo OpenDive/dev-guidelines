@@ -166,5 +166,7 @@ Self describing, terse code should be the norm. But, often times the complexity 
   - http://www.ros.org/reps/rep-0103.html
 
 ## Hardware
-
+### Motors
+- Dynamixel
+- Standard servo
 ### Tools
