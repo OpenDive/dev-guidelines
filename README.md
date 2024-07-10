@@ -39,6 +39,11 @@ Broken code should not be committed.
 #### 2. CREATE FEATURE BRANCHES. ISOLATE CODE THAT WILL CREATE OR CHANGE A FEATURE.    
 Creating a branch does not affect other team members working on a different branch. This is desireable because a feature under development can create instability in the codebase.
 
+Here's a reference to the branching guidelines we follow:   
+[https://graphite.dev/guides/git-branch-naming-conventions](https://graphite.dev/guides/git-branch-naming-conventions)
+
+
+
 #### 3. ALWAYS PULL DOWN THE LATEST CHANGES BEFORE BEGINNING TO CODE. 
 This means that even before you start coding, you must perform a `pull`. In the CLI this command is `git pull origin [branch-name]`.   
 This also means that you must keep you local version of the repository up to date. This is crucial if you’re working on a feature branch that may take more than a few hours to close, don’t let your branch diverge too far from the master branch.   
